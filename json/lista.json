@@ -1,0 +1,26 @@
+[
+  {
+    "lblSummary": "Calificación del terreno para implementar un campamento temporal.",
+	"orden":"1"
+},
+{  "lblSummary": "Diseño del campamento temporal en el terreno calificado como APTO.",
+	"orden":"2"},
+
+{	"lblSummary": "Distribución de los espacios en el campamento (área de dormitorios, área recreativa, área de servicios de atención integral, otros).",
+	"orden":"3"},
+{	"lblSummary": "Habilitación de servicios básicos y servicios para la atención de la población.",
+	"orden":"4"},
+{	"lblSummary": "Equipamiento del campamento (carpas, camas, señalética, mesas, sillas, menaje de cocina, otros). ",
+	"orden":"5"},
+{	"lblSummary": "Traslado de la población al campamento temporal.",
+	"orden":"6"},
+{	"lblSummary": "Distribución de la población en el campamento temporal.",
+	"orden":"7"}
+]
+
+
+
+
+
+
+

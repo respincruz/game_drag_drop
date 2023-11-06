@@ -1,0 +1,17 @@
+[
+  {
+    "id":"b174a26f-398f-41f6-86d0-ea3693f4f281", 
+    "lblHeader": "Administración",
+     "color":"Red" 
+  },
+  {
+    "id":"d258e1ec-bb84-4ac8-a302-eb693af813e2", 
+    "lblHeader": "Gestión",
+       "color":"Blue-Grey" 
+  },
+  {
+    "id":"0f503863-7e4b-4b65-b3bb-412a71c1e9b5", 
+    "lblHeader": "Coordinación",
+    "color":"Pink" 
+  }
+]

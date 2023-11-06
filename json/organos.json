@@ -1,0 +1,54 @@
+[
+  {
+    "id":"daf90310-b43f-4712-b17b-01bf285125a8", 
+    "lblHeader": "Útero",
+     "color":"Red",
+     "description":"Lugar donde se produce la implantación del óvulo fecundado y el desarrollo del feto.",
+     "imagen":"images/UTERO.png"
+  },
+  {
+    "id":"cff7fc40-3bfe-43f5-8412-9eec41cb604d", 
+    "lblHeader": "Ovarios",
+    "color":"Blue-Grey",
+    "description":"Órganos que se encargan de la producción de óvulos y la secreción de hormonas sexuales como los estrógenos.",
+     "imagen":"images/OVARIOS.png"
+  },
+  {
+    "id":"8c2d0f58-bb3d-4329-80eb-b289701abca4", 
+    "lblHeader": "Trompas de falopio",
+    "color":"Pink",
+    "description": "Vía de transporte de los óvulos desde el ovario hasta el útero.",
+     "imagen":"images/TROMPAS.png"
+
+  },
+  {
+    "id":"1d2bc45c-54e0-487f-b685-e7ebd43aa9bb", 
+    "lblHeader": "Testículos",
+    "color":"Pink",
+    "description": "Órgano par que produce hormonas como la testosterona y es el lugar donde se forman los espermatozoides.",
+     "imagen":"images/TESTICULOS.png"
+  },
+  {
+    "id":"9292b3ac-669f-4016-86a3-59942b023e3c", 
+    "lblHeader": "Pene",
+    "color":"Pink",
+    "description": "Órgano con forma de cilindro, compuesto del glande y está cubierto por el prepucio.",
+     "imagen":"images/PENE.png"
+
+  },
+  {
+    "id":"b174a26f-398f-41f6-86d0-ea3693f4f281", 
+    "lblHeader": "Próstata",
+    "color":"Pink",
+    "description": "Genera el líquido para la producción del semen",
+     "imagen":"images/PROSTATA.png" 
+  },
+  {
+    "id":"8810debc-88be-49ea-8bcb-5c14da571d95", 
+    "lblHeader": "Clítoris",
+    "color":"Pink",
+    "description": "Órgano que tiene como función generar placer sexual femenino.",
+     "imagen":"images/CLITORIS.png"
+  }
+
+]

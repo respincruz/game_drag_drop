@@ -1,0 +1,38 @@
+[
+  {
+    "id":"b174a26f-398f-41f6-86d0-ea3693f4f281", 
+    "lblHeader": "Modalidades",
+    "lblSubHeader": "Familias de acogida",
+    "Body": "Familias de acogida: Es un alojamiento que se activa en la vivienda de familiares, vecinos o allegados y en el cual se recibe a familias afectadas por eventos peligrosos.",
+    "color":"Red" 
+  },
+  {
+    "id":"d258e1ec-bb84-4ac8-a302-eb693af813e2", 
+    "lblHeader": "Modalidades",
+    "lblSubHeader": "Familias en emergencia",
+    "Body": "Alquiler para familias en emergencia: Son viviendas alquiladas por la acción de incentivos económicos temporales, públicos o privados, a favor de familias damnificadas por eventos peligrosos.",
+    "color":"Blue-Grey" 
+  },
+  {
+    "id":"0f503863-7e4b-4b65-b3bb-412a71c1e9b5", 
+    "lblHeader": "Modalidades",
+    "lblSubHeader": "Campamento temporal",
+    "Body": "Campamento temporal: Es un alojamiento que se implanta y activa en un terreno amplio ante la falta de infraestructura previa, donde se recibe a las familias afectadas o damnificadas por eventos peligrosos. Cuentan con.",
+    "color":"Pink" 
+  },
+
+   {
+    "id":"80bc3850-6e7b-4f89-b46a-d6b93795a2ea", 
+    "lblHeader": "Modalidades",
+    "lblSubHeader": "Refugio temporal",
+    "Body": "Refugio temporal: Es un espacio donde las personas afectadas o damnificadas buscan techo temporal independientemente de si cuentan o no con asistencia por parte del gobierno o la comunidad internacional.",
+    "color":"Purple" 
+  },
+ {
+    "id":"74c6674b-43db-4a3f-ba92-be0e4f1454c2", 
+    "lblHeader": "Modalidades",
+    "lblSubHeader": "Albergue temporal",
+    "Body": "Albergue temporal: Es una infraestructura existente calificada, para recibir a las personas afectadas o damnificadas por eventos peligrosos, en la cual se brinda agua, alimentación y servicios básicos; la permanencia es",
+    "color":"Deep-Purple" 
+  }
+]

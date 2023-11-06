@@ -1,0 +1,28 @@
+[
+  {
+   "id":"techo",
+   "ancho":"col-md-12",
+   "class":"techo_black"
+  },
+   {
+   "id":"columna_A",
+   "ancho":"col-md-2",
+   "class":"rectangulo_negro"
+  },
+  {
+   "id":"columna_B",
+   "ancho":"col-md-2",
+   "class":"rectangulo_negro"
+  },
+  {
+   "id":"base_A",
+   "ancho":"col-md-4",
+   "class":"rectangulo_gris_base"
+  },
+ {
+   "id":"base_B",
+   "ancho":"col-md-4",
+   "class":"rectangulo_gris_base"
+  },
+  
+]
